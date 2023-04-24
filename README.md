@@ -1,9 +1,8 @@
 ### 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BA0EF7&width=790&height=90&lines=Hey%2C+bem+vindo!+Meu+nome+%C3%A9+Marina%2C+sou+desenvolvedora+Jr+Front-End)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CD23FFDF&width=660&height=70&lines=Hey%2C+welcome!+I'm+Marina%2C+Front-End+Beginner+Developer)](https://git.io/typing-svg)
-
-- 🕮 Estudando HTML / CSS / JavaScript
-- 😄 Ela/Dela
+- 📖 Estudando HTML / CSS / JavaScript
+- 👧 Ela/Dela
 - ⚡ Sou apaixonada por jogos, séries e computação
 
 <div style="display: inline_block"><br>
