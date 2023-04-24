@@ -1,7 +1,7 @@
-### Oiii, Eu sou a Marina Melo 👋
+### Oiii, Eu sou a Marina👋
 
 
-- 🌱 Estudando HTML / CSS / JavaScript
+- 🕮 Estudando HTML / CSS / JavaScript
 - 😄 Ela/Dela
 - ⚡ Sou apaixonada por jogos, séries e computação
 
